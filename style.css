@@ -1,0 +1,70 @@
+.slider-main {
+    height: 455px;
+}
+
+.silder-item {
+    background-color: #FEEAE9;
+}
+
+.slider-img img {
+    height: 378px;
+    width: 402px;
+}
+
+.silder-price {
+    color: #FF136F;
+}
+
+.buy-button {
+    padding: 15px 50px;
+    text-align: center;
+    text-decoration: none;
+    background-size: 200% auto;
+    border: 0;
+    color: white;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #FF136F 0%, #9733EE 51%, #FF136F 100%)
+}
+
+.cat-sec {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.cat-all {
+    height: 120px;
+    width: 410px;
+}
+
+.cat-1 {
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%)
+}
+
+.cat-2 {
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+
+.cat-3 {
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+
+}
+
+.cat-img {
+    width: auto;
+    height: 99px
+}
+
+/* shoes section stylesheet */
+.sho-back {
+    background-color: #F4F4F4;
+    padding: 10px 0 20px 0;
+}
+
+.shoes-card {
+    border-radius: 20px;
+}
+
+/* bag section stylesheet */
+.bag-card {
+    border-radius: 20px;
+}
