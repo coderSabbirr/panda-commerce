@@ -1,15 +1,10 @@
-.slider-main {
-    height: 455px;
-}
+
 
 .silder-item {
     background-color: #FEEAE9;
 }
 
-.slider-img img {
-    height: 378px;
-    width: 402px;
-}
+
 
 .silder-price {
     color: #FF136F;
@@ -32,10 +27,7 @@
     margin-bottom: 50px;
 }
 
-.cat-all {
-    height: 120px;
-    width: 410px;
-}
+
 
 .cat-1 {
     background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%)
@@ -68,4 +60,19 @@
 /* bag section stylesheet */
 .bag-card {
     border-radius: 20px;
+}
+.subscribe-sec{
+    background-color:#FFF2F1;
+    border-radius: 15px;
+}
+.subscribe-sec p {
+    font-size: 22.5px;
+}
+
+.search-bar {
+    width:320px;
+    height: 50px;
+    background-color: white;
+    border: 0;
+    font-size: 24px;
 }
